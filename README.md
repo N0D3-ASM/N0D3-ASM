@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm N0D3!
 
 # 💫 About Me:
-🔭 I’m currently working on: Learning SQL & Python<br>👯 I’m looking to collaborate on: CTFs (Capture the Flags)<br>🤝 I’m looking for help with: Web Hacking<br>🌱 I’m currently learning: Exploit Development<br>
+🔭 I’m currently working on: Learning SQL, Python & Bash Script<br>👯 I’m looking to collaborate on: CTFs (Capture the Flags)<br>🤝 I’m looking for help with: Web Hacking<br>🌱 I’m currently learning: Exploit Development<br>
 
 
 # 💻 Tech Stack:
